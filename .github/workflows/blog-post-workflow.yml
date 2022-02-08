@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: vivekj1795/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/@vivekj1795/my-journey-from-concrete-to-code-632850b604ed"
