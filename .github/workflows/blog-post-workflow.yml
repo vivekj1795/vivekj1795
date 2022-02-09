@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@vivekj1795/my-journey-from-concrete-to-code-632850b604ed"
+          feed_list: "https://medium.com/feed/@vivekj1795/my-journey-from-concrete-to-code-632850b604ed"
