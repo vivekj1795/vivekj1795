@@ -10,6 +10,8 @@
 </div>
 </div>
 
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
